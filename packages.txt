@@ -1,2 +1,2 @@
-bgl1
+libgl1
 libgomp1
